@@ -3,8 +3,8 @@
 Оценка эффективности алгоритмов по времени через оценку количества операций.
 
 - [Prerequisites](0.Prerequisites.md) - предварительные знания, необходимые для понимания материала.
-- [Introduction](1.Introduction.md) - введение в проблематику; связь времени выполнения и количества операций.
-- [Definition.O_large](2.1.Definition.O_large.md) - термины "О большое", "Тета" и "Омега".
-- [Definition.Asymptotics](2.2.Definition.Asymptotics.md) - термин "асимптотика".
-- [Application](3.Application.md) - операции над асимптотиками; наиболее часто встречающиеся виды асимптотик.
+- [Concept.Basic operations](1.Concept.BasicOperations.md) - введение в проблематику; связь времени выполнения и количества операций.
+- [Concept.O_large](2.1.Concept.O_large.md) - термины "О большое", "Тета" и "Омега".
+- [Concept.Asymptotics](2.2.Concept.Asymptotics.md) - термин "асимптотика".
+- [Applications](3.Applications.md) - операции над асимптотиками; наиболее часто встречающиеся виды асимптотик.
 - [Exercises](4.Exercises.md) - набор вопросов и заданий для самостоятельного решения.
