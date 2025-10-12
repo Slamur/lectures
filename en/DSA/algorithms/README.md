@@ -9,4 +9,5 @@
 Different greedy approaches:
 
 - the greedy choice property;
-- exchange argument method.
+- the greedy approach with comparator;
+- "exchange argument" method.
