@@ -21,3 +21,14 @@ Description of the main data structures:
 - implementation examples;
 - usage in C++ / Java / Python;
 - application examples.
+
+### Algorithms
+
+[Link to section](algorithms)
+
+Description of the main data structures:
+
+- concepts and terminology;
+- implementation examples;
+- usage in C++ / Java / Python;
+- application examples.
