@@ -26,7 +26,7 @@ Description of the main data structures:
 
 [Link to section](algorithms)
 
-Description of the main data structures:
+Description of the main algorithms:
 
 - concepts and terminology;
 - implementation examples;
