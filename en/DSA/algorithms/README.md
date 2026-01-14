@@ -1,6 +1,18 @@
 # Lectures
 
 ## Algorithms
+ 
+### Prefix approach
+
+[Link to section](prefix_approach)
+
+Prefix approach concept:
+
+- definitions of prefix and suffix;
+- accumulating functions on prefixes and suffixes;
+- range queries for invertible operations;
+- programming language-specific features;
+- multidimensional prefixes.
 
 ### Greedy
 
