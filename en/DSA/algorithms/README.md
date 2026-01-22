@@ -30,4 +30,5 @@ Different greedy approaches:
 
 Scanline approach concept:
 
-- difference array.
+- difference array;
+- segments on the line.
