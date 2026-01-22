@@ -23,3 +23,11 @@ Different greedy approaches:
 - the greedy choice property;
 - the greedy approach with comparator;
 - "exchange argument" method.
+
+### Scanline
+
+[Link to section](scanline)
+
+Scanline approach concept:
+
+- difference array.
