@@ -31,4 +31,5 @@ Different greedy approaches:
 Scanline approach concept:
 
 - difference array;
-- segments on the line.
+- segments on the line;
+- critical points.
