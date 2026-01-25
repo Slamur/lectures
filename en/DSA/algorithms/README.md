@@ -32,4 +32,5 @@ Scanline approach concept:
 
 - difference array;
 - segments on the line;
-- critical points.
+- critical points;
+- online queries and coordinate compression.
